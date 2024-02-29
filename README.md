@@ -11,3 +11,7 @@ Data Processing and Analysis: Advanced algorithms are used to process and analyz
 Recommendation Generation: Based on the analyzed data, the system generates personalized healthcare recommendations. These recommendations may encompass preventive measures, lifestyle changes, specific treatments, medication adjustments, dietary suggestions, exercise regimens, and more. The aim is to provide tailored guidance that addresses the individual's unique healthcare needs.
 
 By utilizing this framework and leveraging sophisticated algorithms, personalized healthcare recommendation systems can empower individuals to make informed decisions about their health and well-being.
+
+
+FLOWCHART Link--
+https://lucid.app/lucidchart/afafce5f-4245-476c-8264-d2b976d47aec/edit?viewport_loc=-214%2C-28%2C1911%2C1027%2C0_0&invitationId=inv_ef732410-f7cd-4a1f-aaf3-e318d29ce52a
